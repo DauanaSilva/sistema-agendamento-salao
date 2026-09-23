@@ -68,3 +68,8 @@ Os dados são armazenados durante a execução do programa. O sistema verifica s
 ## Objetivo
 
 O objetivo do projeto é aplicar na prática os conceitos de Lógica de Programação e Programação Orientada a Objetos na criação de uma solução simples para uma situação relacionada à organização de atendimentos em um salão de beleza.
+
+## Estudante
+
+*Nome:* Dauana Silva Silvério do Rosário  
+*RA:* 26001615
